@@ -1,7 +1,7 @@
 {
   "name": "objectvalues-iteration-example",
   "version": "1.0.0",
-  "description": "The Object.values() method returns an array of a given object's own enumerable property values, in the same order as that provided by a for...in loop. Unilike a for...in loop, this method returns only enumerable properties from the object, without looking into the Prototype chain",
+  "description": "The Object.values() method returns an array of a given object's own enumerable property values, in the same order as that provided by a for...in loop. Unlike a for...in loop, this method returns only enumerable properties from the object, without looking into the Prototype chain",
   "main": "index.html",
   "scripts": {
     "start": "parcel index.html --open",
