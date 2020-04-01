@@ -1,0 +1,23 @@
+{
+  "name": "objectvalues-iteration-example",
+  "version": "1.0.0",
+  "description": "The Object.values() method returns an array of a given object's own enumerable property values, in the same order as that provided by a for...in loop. Unilike a for...in loop, this method returns only enumerable properties from the object, without looking into the Prototype chain",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": [
+    "javascript",
+    "javascript object",
+    "object properties",
+    "object values",
+    "values iteration",
+    "property iteration"
+  ]
+}
